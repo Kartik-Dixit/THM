@@ -43,7 +43,7 @@ We can find something interesting in our nmap scan and that is **Anonymous FTP l
 ftp $IP
 ```
 
-We are able to see two files on ftp server locks.txt and task.txt. So let's copy these files to our system by using mget command.
+We are able to see two files on ftp server [locks.txt](https://github.com/Kartik-Dixit/THM/blob/main/Bounty_hacker/files/locks.txt) and [task.txt](https://github.com/Kartik-Dixit/THM/blob/main/Bounty_hacker/files/task.txt). So let's copy these files to our system by using mget command.
 ```bash
 ftp> mget *
 ```
