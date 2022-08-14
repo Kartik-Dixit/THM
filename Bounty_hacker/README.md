@@ -68,9 +68,7 @@ Flags      | Description
 
 We got the password!
 
-![ftp](https://github.com/Kartik-Dixit/THM/blob/main/Bounty_hacker/images/hydra.png)
-
-**Answer 5: RedDr4gonSynd1cat3**
+**Answer 5: password you get through bruteforce**
 
 Now we have the username and password, so let's login and connect to the target through SSH. 
 ```bash
