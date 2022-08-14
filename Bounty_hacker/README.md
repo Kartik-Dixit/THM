@@ -7,6 +7,10 @@ export IP = 10.10.86.180
 ```
 First and second question need no answers so let us move to third question.
 
+**Answer 1: No answer needed**
+
+**Answer 2: No answer needed**
+
 Now, let us run the nmap scan by the following command:
 
 ```bash
