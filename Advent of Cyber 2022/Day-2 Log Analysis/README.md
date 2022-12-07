@@ -32,6 +32,7 @@ So here we have to find the file name. So, let's try to find any txt file name i
 ```bash
 cat webserver.log | grep "\.txt"
 ```
+You will see a file name with .txt extension. This is the important list which was stolen.
 
 ## Task 8: Look through the log files for the flag. The format of the flag is: THM{}
 Let's again use grep command to find flag.
