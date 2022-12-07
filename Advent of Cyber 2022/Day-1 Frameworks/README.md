@@ -15,7 +15,7 @@ We can see there is a puzzle which we need to solve so let's start:
 6. I am set up to let you back into the network after you leave: Persistence
 7. Deletion of evidence is part of my process: Defence Evasion
 8. Communication with the compromised goes through me: Command and Control<br>
-![ALT](images/2.png)
+![ALT](images/2.png =250x250)
 
 ## Puzzle 2:
 1. I am an anchor that lets you go on an adventure and explore: Pivoting
@@ -24,7 +24,7 @@ We can see there is a puzzle which we need to solve so let's start:
 4. My payloads are triggered to infect all they come in contact with: Execution
 5. Passwords I collect are the keys to the mainframe: Credential Access
 6. Side to side, machine to machine, we hop: Lateral Movement<br>
-![ALT](images/3.png)
+![ALT](images/3.png =250x250)
 
 ## Puzzle 3:
 1. In your vault, I am in: Access
@@ -32,5 +32,5 @@ We can see there is a puzzle which we need to solve so let's start:
 3. I export gathered treasures: Exfiltration
 4. With me, your reputation goes tumbling down: Impact
 5. Goals set, goals attained. I win!: Objectives<br>
-![ALT](images/4.png)
+![ALT](images/4.png =250x250)
 Wow! we got the flag and also the name of culprit.
