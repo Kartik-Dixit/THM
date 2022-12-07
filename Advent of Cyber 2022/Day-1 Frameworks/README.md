@@ -33,5 +33,5 @@ We can see there is a puzzle which we need to solve so let's start:
 4. With me, your reputation goes tumbling down: Impact
 5. Goals set, goals attained. I win!: Objectives<br>
 ![ALT](images/4.png =250x250)
-<img src="images/4.png" width="250" height="250">
+<img src="images/4.png" width="350" height="250">
 Wow! we got the flag and also the name of culprit.
