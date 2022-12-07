@@ -7,7 +7,7 @@ Now we can connect to the machine using either attackbox or openvpn.
 Note: ***Change the target_ip with the machine IP.***
 
 ## Connect using openvpn 
-First download your openvpn configuration file.
+First download your openvpn configuration file.<br>
 Now on your linux machine type
 ```bash
 sudo openvpn config_file_path
